@@ -20,7 +20,7 @@
 
 title: Tour
 description: >- # this means to ignore newlines until "baseurl:"
-  Willkommen! Dies ist der alternativlose Blog zur Tour der schönsten Abfluss- und Grundwassermessstellen im Norden Bayerns.
+  Willkommen! Dies ist der alternativlose Blog zur Tour der schönsten Abfluss- und Grundwassermessstellen in Nordbayern.
 baseurl: "/Tour" # the subpath of your site, e.g. /blog
 url: "https://justusweyers.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  JustusWeyers
